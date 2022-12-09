@@ -61,6 +61,7 @@ body{
     margin-top: 25px;
     font-size: 22px;
     cursor: pointer;
+    font-weight: light;
 }
 .card-info > p{
     color: hsl(215, 51%, 70%);
